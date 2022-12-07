@@ -1,0 +1,21 @@
+h2 {
+  color: rgb(88, 37, 138);
+}
+button {
+  background-color: #cb69dc;
+  color: rgb(70, 29, 111);
+  border: none;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  margin: 4px 4px;
+  border-radius: 50%;
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:hover {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
